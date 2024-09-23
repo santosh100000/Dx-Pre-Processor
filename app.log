@@ -406,3 +406,72 @@ TypeError: expected str, bytes or os.PathLike object, not DataFrame
 2024-09-23 20:26:13,750 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:13] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
 2024-09-23 20:26:14,117 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:14] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
 2024-09-23 20:26:14,439 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:14] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:28:08,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 20:28:08,259 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 20:28:13,002 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:13] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:28:13,026 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:13] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:28:13,159 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:13] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:28:13,512 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:13] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:28:13,833 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:13] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:28:22,626 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:22] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 20:28:23,952 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:23] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:28:24,258 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:24] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:28:24,289 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:24] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:28:24,686 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:24] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:28:25,009 - INFO - 127.0.0.1 - - [23/Sep/2024 20:28:25] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:37:06,793 - INFO - 127.0.0.1 - - [23/Sep/2024 20:37:06] "[33mGET / HTTP/1.1[0m" 404 -
+2024-09-23 20:42:42,428 - INFO - 127.0.0.1 - - [23/Sep/2024 20:42:42] "GET / HTTP/1.1" 200 -
+2024-09-23 20:42:42,680 - INFO - 127.0.0.1 - - [23/Sep/2024 20:42:42] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 20:42:43,026 - INFO - 127.0.0.1 - - [23/Sep/2024 20:42:43] "GET /static/js/main.1ef78dc5.js HTTP/1.1" 200 -
+2024-09-23 20:42:43,454 - INFO - 127.0.0.1 - - [23/Sep/2024 20:42:43] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:42:43,780 - INFO - 127.0.0.1 - - [23/Sep/2024 20:42:43] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:14:52,182 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:52] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 21:14:52,185 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:52] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 21:14:52,713 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:52] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 21:14:52,723 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:52] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:14:54,290 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:54] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 21:14:54,314 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:54] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 21:14:54,521 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:54] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 21:14:54,560 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:54] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 21:14:54,875 - INFO - 127.0.0.1 - - [23/Sep/2024 21:14:54] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:15:23,378 - INFO - 127.0.0.1 - - [23/Sep/2024 21:15:23] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 21:15:23,410 - INFO - 127.0.0.1 - - [23/Sep/2024 21:15:23] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 21:15:23,637 - INFO - 127.0.0.1 - - [23/Sep/2024 21:15:23] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 21:15:23,987 - INFO - 127.0.0.1 - - [23/Sep/2024 21:15:23] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 21:15:24,310 - INFO - 127.0.0.1 - - [23/Sep/2024 21:15:24] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:15:43,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 21:15:43,847 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 21:16:16,414 - INFO - 127.0.0.1 - - [23/Sep/2024 21:16:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-09-23 21:16:37,327 - INFO - 127.0.0.1 - - [23/Sep/2024 21:16:37] "[33mGET / HTTP/1.1[0m" 404 -
+2024-09-23 21:16:38,751 - INFO - 127.0.0.1 - - [23/Sep/2024 21:16:38] "[33mGET / HTTP/1.1[0m" 404 -
+2024-09-23 21:16:52,490 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 21:16:52,491 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 21:17:29,761 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:29] "GET / HTTP/1.1" 200 -
+2024-09-23 21:17:29,977 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:29] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 21:17:30,178 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:30] "GET /static/js/main.1ef78dc5.js HTTP/1.1" 200 -
+2024-09-23 21:17:30,541 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:30] "GET /manifest.json HTTP/1.1" 200 -
+2024-09-23 21:17:30,859 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:30] "GET /logo192.png HTTP/1.1" 200 -
+2024-09-23 21:17:56,522 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:56] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 21:17:58,826 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:58] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 21:17:59,138 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:59] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 21:17:59,168 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:59] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 21:17:59,567 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:59] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 21:17:59,889 - INFO - 127.0.0.1 - - [23/Sep/2024 21:17:59] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:22:33,245 - INFO - 127.0.0.1 - - [23/Sep/2024 21:22:33] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 21:22:33,286 - INFO - 127.0.0.1 - - [23/Sep/2024 21:22:33] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 21:22:33,504 - INFO - 127.0.0.1 - - [23/Sep/2024 21:22:33] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 21:22:33,841 - INFO - 127.0.0.1 - - [23/Sep/2024 21:22:33] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 21:22:34,166 - INFO - 127.0.0.1 - - [23/Sep/2024 21:22:34] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 21:24:53,205 - INFO - 127.0.0.1 - - [23/Sep/2024 21:24:53] "OPTIONS /api/upload HTTP/1.1" 200 -
+2024-09-23 21:24:53,659 - INFO - 127.0.0.1 - - [23/Sep/2024 21:24:53] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 21:27:17,093 - INFO - 127.0.0.1 - - [23/Sep/2024 21:27:17] "OPTIONS /api/upload HTTP/1.1" 200 -
+2024-09-23 21:27:17,512 - INFO - 127.0.0.1 - - [23/Sep/2024 21:27:17] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 21:28:46,147 - INFO - 127.0.0.1 - - [23/Sep/2024 21:28:46] "OPTIONS /api/upload HTTP/1.1" 200 -
+2024-09-23 21:28:46,544 - INFO - 127.0.0.1 - - [23/Sep/2024 21:28:46] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 21:42:19,247 - INFO - 127.0.0.1 - - [23/Sep/2024 21:42:19] "OPTIONS /api/upload HTTP/1.1" 200 -
+2024-09-23 21:42:19,551 - INFO - 127.0.0.1 - - [23/Sep/2024 21:42:19] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 22:02:55,201 - INFO - 127.0.0.1 - - [23/Sep/2024 22:02:55] "OPTIONS /api/upload HTTP/1.1" 200 -
+2024-09-23 22:02:55,755 - INFO - 127.0.0.1 - - [23/Sep/2024 22:02:55] "POST /api/upload HTTP/1.1" 200 -

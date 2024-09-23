@@ -1,14 +1,14 @@
 from flask import Flask, request, send_file, jsonify, send_from_directory
-from flask_cors import CORS
+from flask_cors import CORS  # Import CORS
 import pandas as pd
 import os
 import werkzeug
 import logging
 import traceback
 
-# Initialize Flask application and enable CORS
+# Initialize Flask application and enable CORS for all origins
 app = Flask(__name__, static_folder='build', static_url_path='')
-CORS(app)
+CORS(app, resources={r"/api/*": {"origins": "*"}})  # Allow CORS for API routes only
 
 # Configure logging to capture errors and save them to a log file
 logging.basicConfig(level=logging.ERROR, filename='app.log',
@@ -140,17 +140,11 @@ def clean_up_processed_files(limit=3):
 @app.route('/', methods=['GET'])
 def serve_react_app():
     """Serve the main React application."""
-    #return app.send_static_file('index.html')
     return send_from_directory(app.static_folder, 'index.html')
-    
-
 
 @app.route('/<path:path>', methods=['GET'])
 def serve_static_files(path):
-    """Serve static files.
-    if os.path.exists(os.path.join(app.static_folder, path)):
-        return send_from_directory(app.static_folder, path)
-    return app.send_static_file('index.html')"""
+    """Serve static files."""
     return send_from_directory(app.static_folder, path)
 
 @app.route('/api/upload', methods=['POST'])
