@@ -376,3 +376,33 @@ TypeError: expected str, bytes or os.PathLike object, not DataFrame
 2024-09-23 20:11:03,639 - INFO -  * Debugger PIN: 405-898-903
 2024-09-23 20:12:23,016 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
 2024-09-23 20:12:23,262 - INFO -  * Restarting with stat
+2024-09-23 20:12:51,028 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 20:12:51,028 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 20:13:01,081 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:01] "GET / HTTP/1.1" 200 -
+2024-09-23 20:13:01,170 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:01] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 20:13:01,471 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:01] "GET /static/js/main.1ef78dc5.js HTTP/1.1" 200 -
+2024-09-23 20:13:01,901 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:01] "GET /manifest.json HTTP/1.1" 200 -
+2024-09-23 20:13:02,225 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:02] "GET /logo192.png HTTP/1.1" 200 -
+2024-09-23 20:13:30,827 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:30] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 20:13:32,761 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:32] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:13:33,065 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:33] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:13:33,097 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:33] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:13:33,448 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:33] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:13:33,769 - INFO - 127.0.0.1 - - [23/Sep/2024 20:13:33] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:20:56,932 - INFO - 127.0.0.1 - - [23/Sep/2024 20:20:56] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:20:56,993 - INFO - 127.0.0.1 - - [23/Sep/2024 20:20:56] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:20:57,018 - INFO - 127.0.0.1 - - [23/Sep/2024 20:20:57] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:20:57,628 - INFO - 127.0.0.1 - - [23/Sep/2024 20:20:57] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:20:57,959 - INFO - 127.0.0.1 - - [23/Sep/2024 20:20:57] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:21:06,117 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:06] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 20:21:27,607 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:27] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:21:27,631 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:27] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:21:27,873 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:27] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:21:28,219 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:28] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:21:28,541 - INFO - 127.0.0.1 - - [23/Sep/2024 20:21:28] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 20:26:13,499 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:13] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 20:26:13,521 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:13] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 20:26:13,750 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:13] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 20:26:14,117 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:14] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 20:26:14,439 - INFO - 127.0.0.1 - - [23/Sep/2024 20:26:14] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
