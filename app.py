@@ -140,17 +140,11 @@ def clean_up_processed_files(limit=3):
 @app.route('/', methods=['GET'])
 def serve_react_app():
     """Serve the main React application."""
-    #return app.send_static_file('index.html')
     return send_from_directory(app.static_folder, 'index.html')
-    
-
 
 @app.route('/<path:path>', methods=['GET'])
 def serve_static_files(path):
-    """Serve static files.
-    if os.path.exists(os.path.join(app.static_folder, path)):
-        return send_from_directory(app.static_folder, path)
-    return app.send_static_file('index.html')"""
+    """Serve static files."""
     return send_from_directory(app.static_folder, path)
 
 @app.route('/api/upload', methods=['POST'])
@@ -175,7 +169,7 @@ def upload_file():
             return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
         except Exception as e:
             logging.error(f"Error processing file: {str(e)}\n{traceback.format_exc()}")
-            return jsonify({'error': 'An error occurred while processing the file. Please refresh the page and try again. If softvend is STRATASPHERE, they do not need pre processing'}), 500
+            return jsonify({'error': 'An error occurred while processing the file. Please refresh the page and try again. If softvend is STRATASPHERE, they do not need preprocessing.'}), 500
         finally:
             if os.path.exists(file_path):
                 os.remove(file_path)

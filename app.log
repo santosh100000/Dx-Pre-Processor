@@ -325,3 +325,54 @@ TypeError: expected str, bytes or os.PathLike object, not DataFrame
 2024-09-23 19:51:42,620 - INFO - 127.0.0.1 - - [23/Sep/2024 19:51:42] "[33mGET / HTTP/1.1[0m" 404 -
 2024-09-23 19:51:43,581 - INFO - 127.0.0.1 - - [23/Sep/2024 19:51:43] "[33mGET / HTTP/1.1[0m" 404 -
 2024-09-23 19:51:44,452 - INFO - 127.0.0.1 - - [23/Sep/2024 19:51:44] "[33mGET / HTTP/1.1[0m" 404 -
+2024-09-23 19:59:47,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 19:59:47,848 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 20:00:29,688 - INFO - 127.0.0.1 - - [23/Sep/2024 20:00:29] "GET /favicon.ico HTTP/1.1" 200 -
+2024-09-23 20:03:03,323 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 20:03:03,324 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 20:03:03,328 - INFO -  * Restarting with stat
+2024-09-23 20:03:05,196 - WARNING -  * Debugger is active!
+2024-09-23 20:03:05,216 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:03:16,224 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-09-23 20:03:16,520 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-09-23 20:03:16,581 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-09-23 20:03:16,992 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:16] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=tqkihjUEAlySrw6171KX HTTP/1.1" 200 -
+2024-09-23 20:03:17,251 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-09-23 20:03:34,970 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
+2024-09-23 20:03:35,265 - INFO -  * Restarting with stat
+2024-09-23 20:03:39,591 - WARNING -  * Debugger is active!
+2024-09-23 20:03:39,615 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:03:39,699 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-09-23 20:03:40,399 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-09-23 20:03:40,420 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-09-23 20:03:40,462 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:40] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=6cL2UypECspSjpvDO07J HTTP/1.1" 200 -
+2024-09-23 20:03:40,876 - INFO - 127.0.0.1 - - [23/Sep/2024 20:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-09-23 20:05:35,570 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
+2024-09-23 20:05:37,043 - INFO -  * Restarting with stat
+2024-09-23 20:05:39,106 - WARNING -  * Debugger is active!
+2024-09-23 20:05:39,137 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:05:53,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 20:05:53,862 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 20:05:53,865 - INFO -  * Restarting with stat
+2024-09-23 20:05:56,493 - WARNING -  * Debugger is active!
+2024-09-23 20:05:56,568 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:05:59,072 - INFO - 127.0.0.1 - - [23/Sep/2024 20:05:59] "GET / HTTP/1.1" 200 -
+2024-09-23 20:06:00,016 - INFO - 127.0.0.1 - - [23/Sep/2024 20:06:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-23 20:06:07,409 - INFO - 127.0.0.1 - - [23/Sep/2024 20:06:07] "GET / HTTP/1.1" 200 -
+2024-09-23 20:09:51,973 - INFO - 127.0.0.1 - - [23/Sep/2024 20:09:51] "[33mPOST /api/upload HTTP/1.1[0m" 404 -
+2024-09-23 20:09:57,577 - INFO - 127.0.0.1 - - [23/Sep/2024 20:09:57] "[33mPOST /api/upload HTTP/1.1[0m" 404 -
+2024-09-23 20:10:27,355 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
+2024-09-23 20:10:27,977 - INFO -  * Restarting with stat
+2024-09-23 20:10:30,189 - WARNING -  * Debugger is active!
+2024-09-23 20:10:30,202 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:10:33,669 - INFO - 127.0.0.1 - - [23/Sep/2024 20:10:33] "[33mPOST /api/upload HTTP/1.1[0m" 404 -
+2024-09-23 20:10:37,483 - INFO - 127.0.0.1 - - [23/Sep/2024 20:10:37] "[33mPOST /api/upload HTTP/1.1[0m" 404 -
+2024-09-23 20:11:01,741 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
+2024-09-23 20:11:01,830 - INFO -  * Restarting with stat
+2024-09-23 20:11:03,614 - WARNING -  * Debugger is active!
+2024-09-23 20:11:03,639 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 20:12:23,016 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\app.py', reloading
+2024-09-23 20:12:23,262 - INFO -  * Restarting with stat
