@@ -7,7 +7,7 @@ import logging
 import traceback
 
 # Initialize Flask application and enable CORS
-app = Flask(__name__, static_folder='dx_pre_processor/build', static_url_path='')
+app = app = Flask(__name__, static_folder='dx_pre_processor/build', static_url_path='')
 CORS(app)
 
 # Configure logging to capture errors and save them to a log file
