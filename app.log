@@ -1,0 +1,273 @@
+2024-09-23 15:40:31,790 - WARNING -  * Debugger is active!
+2024-09-23 15:40:31,800 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 15:42:44,155 - INFO - 127.0.0.1 - - [23/Sep/2024 15:42:44] "POST / HTTP/1.1" 200 -
+2024-09-23 15:43:25,107 - INFO - 127.0.0.1 - - [23/Sep/2024 15:43:25] "POST / HTTP/1.1" 200 -
+2024-09-23 15:45:18,844 - INFO - 127.0.0.1 - - [23/Sep/2024 15:45:18] "POST / HTTP/1.1" 200 -
+2024-09-23 15:45:54,233 - INFO - 127.0.0.1 - - [23/Sep/2024 15:45:54] "POST / HTTP/1.1" 200 -
+2024-09-23 15:48:57,654 - INFO - 127.0.0.1 - - [23/Sep/2024 15:48:57] "POST / HTTP/1.1" 200 -
+2024-09-23 16:33:32,047 - INFO - 127.0.0.1 - - [23/Sep/2024 16:33:32] "POST / HTTP/1.1" 200 -
+2024-09-23 16:34:44,958 - INFO - 127.0.0.1 - - [23/Sep/2024 16:34:44] "POST / HTTP/1.1" 200 -
+2024-09-23 16:57:07,730 - INFO - 127.0.0.1 - - [23/Sep/2024 16:57:07] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-09-23 16:57:24,002 - INFO - 127.0.0.1 - - [23/Sep/2024 16:57:24] "POST / HTTP/1.1" 200 -
+2024-09-23 16:58:31,210 - INFO - 127.0.0.1 - - [23/Sep/2024 16:58:31] "POST / HTTP/1.1" 200 -
+2024-09-23 16:59:12,505 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\processor.py', reloading
+2024-09-23 16:59:20,985 - WARNING -  * Debugger is active!
+2024-09-23 16:59:21,072 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 16:59:52,770 - INFO - 127.0.0.1 - - [23/Sep/2024 16:59:52] "POST / HTTP/1.1" 200 -
+2024-09-23 17:00:36,546 - INFO - 127.0.0.1 - - [23/Sep/2024 17:00:36] "POST / HTTP/1.1" 200 -
+2024-09-23 17:04:55,304 - INFO - 127.0.0.1 - - [23/Sep/2024 17:04:55] "POST / HTTP/1.1" 200 -
+2024-09-23 17:09:44,629 - INFO - 127.0.0.1 - - [23/Sep/2024 17:09:44] "POST / HTTP/1.1" 200 -
+2024-09-23 17:11:07,857 - INFO - 127.0.0.1 - - [23/Sep/2024 17:11:07] "POST / HTTP/1.1" 200 -
+2024-09-23 17:16:46,086 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 17:17:05,784 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 17:17:05,784 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 17:17:05,790 - INFO -  * Restarting with stat
+2024-09-23 17:17:07,117 - WARNING -  * Debugger is active!
+2024-09-23 17:17:07,165 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 17:20:02,856 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 17:20:03,242 - INFO -  * Restarting with stat
+2024-09-23 17:21:55,533 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 17:21:55,534 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 17:21:55,537 - INFO -  * Restarting with stat
+2024-09-23 17:21:57,345 - WARNING -  * Debugger is active!
+2024-09-23 17:21:57,368 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 17:22:45,955 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:45] "GET / HTTP/1.1" 200 -
+2024-09-23 17:22:46,038 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:46] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 17:22:46,389 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:46] "GET /static/js/main.4b3650ca.js HTTP/1.1" 200 -
+2024-09-23 17:22:47,009 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:47] "GET /manifest.json HTTP/1.1" 200 -
+2024-09-23 17:22:47,012 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:47] "GET /favicon.ico HTTP/1.1" 200 -
+2024-09-23 17:22:47,261 - INFO - 127.0.0.1 - - [23/Sep/2024 17:22:47] "GET /logo192.png HTTP/1.1" 200 -
+2024-09-23 17:23:00,814 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-09-23 17:23:19,730 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:19] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 17:23:19,768 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:19] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 17:23:19,969 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:19] "[36mGET /static/js/main.4b3650ca.js HTTP/1.1[0m" 304 -
+2024-09-23 17:23:20,332 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:20] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:23:20,334 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:20] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 17:23:20,592 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:20] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 17:23:29,982 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:29] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-09-23 17:23:39,414 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:39] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-09-23 17:23:51,858 - INFO - 127.0.0.1 - - [23/Sep/2024 17:23:51] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-09-23 17:25:38,126 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 17:25:39,847 - INFO -  * Restarting with stat
+2024-09-23 17:25:46,076 - WARNING -  * Debugger is active!
+2024-09-23 17:25:46,110 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 17:25:46,880 - INFO - 127.0.0.1 - - [23/Sep/2024 17:25:46] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-09-23 17:29:55,200 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 17:29:55,201 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 17:29:55,204 - INFO -  * Restarting with stat
+2024-09-23 17:29:56,613 - WARNING -  * Debugger is active!
+2024-09-23 17:29:56,628 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 17:30:03,156 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:03] "GET / HTTP/1.1" 200 -
+2024-09-23 17:30:03,214 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:03] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 17:30:03,391 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:03] "GET /static/js/main.3e313b7f.js HTTP/1.1" 200 -
+2024-09-23 17:30:03,894 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:03] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 17:30:03,896 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:03] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:30:04,158 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:04] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 17:30:13,006 - INFO - 127.0.0.1 - - [23/Sep/2024 17:30:13] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 17:53:39,149 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 17:53:39,150 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 17:53:39,157 - INFO -  * Restarting with stat
+2024-09-23 17:53:41,960 - WARNING -  * Debugger is active!
+2024-09-23 17:53:41,999 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 17:53:51,190 - INFO - 127.0.0.1 - - [23/Sep/2024 17:53:51] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 17:53:51,707 - INFO - 127.0.0.1 - - [23/Sep/2024 17:53:51] "[36mGET /static/js/main.3e313b7f.js HTTP/1.1[0m" 304 -
+2024-09-23 17:53:52,694 - INFO - 127.0.0.1 - - [23/Sep/2024 17:53:52] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:53:53,041 - INFO - 127.0.0.1 - - [23/Sep/2024 17:53:53] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 17:53:56,011 - INFO - 127.0.0.1 - - [23/Sep/2024 17:53:56] "[31m[1mPOST /api/upload HTTP/1.1[0m" 400 -
+2024-09-23 17:54:08,914 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:08] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 17:54:58,824 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:58] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 17:54:58,899 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:58] "[36mGET /static/js/main.3e313b7f.js HTTP/1.1[0m" 304 -
+2024-09-23 17:54:59,082 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:59] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 17:54:59,556 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:59] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:54:59,582 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:59] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 17:54:59,811 - INFO - 127.0.0.1 - - [23/Sep/2024 17:54:59] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 17:55:10,245 - INFO - 127.0.0.1 - - [23/Sep/2024 17:55:10] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 17:58:11,714 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:11] "GET / HTTP/1.1" 200 -
+2024-09-23 17:58:11,807 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:11] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 17:58:12,272 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:12] "GET /static/js/main.bed8d3eb.js HTTP/1.1" 200 -
+2024-09-23 17:58:12,912 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:12] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 17:58:12,915 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:12] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:58:13,175 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:13] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 17:58:21,738 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:21] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 17:58:23,751 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:23] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 17:58:24,061 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:24] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 17:58:24,106 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:24] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 17:58:24,544 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:24] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 17:58:24,545 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:24] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 17:58:24,810 - INFO - 127.0.0.1 - - [23/Sep/2024 17:58:24] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:02:46,007 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 18:02:46,890 - INFO -  * Restarting with stat
+2024-09-23 18:02:50,396 - WARNING -  * Debugger is active!
+2024-09-23 18:02:50,419 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 18:03:01,117 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:01] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:03:03,282 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:03] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:03:03,401 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:03] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:03:03,718 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:03] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:03:04,155 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:04] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:03:04,157 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:04] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:03:04,421 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:04] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:03:49,549 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:49] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:03:51,440 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:51] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:03:51,714 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:51] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:03:51,869 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:51] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:03:52,398 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:52] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:03:52,400 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:52] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:03:52,662 - INFO - 127.0.0.1 - - [23/Sep/2024 18:03:52] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:04:51,479 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:51] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:04:53,333 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:53] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:04:53,616 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:53] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:04:53,872 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:53] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:04:54,720 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:54] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:04:54,722 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:54] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:04:54,969 - INFO - 127.0.0.1 - - [23/Sep/2024 18:04:54] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:07:51,665 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 18:07:51,855 - INFO -  * Restarting with stat
+2024-09-23 18:07:59,581 - WARNING -  * Debugger is active!
+2024-09-23 18:07:59,600 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 18:08:07,909 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:07] "[31m[1mPOST /api/upload HTTP/1.1[0m" 400 -
+2024-09-23 18:08:24,233 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:24] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:08:25,670 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:25] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:08:25,777 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:25] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:08:26,047 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:26] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:08:26,496 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:26] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:08:26,508 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:26] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:08:26,759 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:26] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:08:57,267 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:57] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:08:59,087 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:59] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:08:59,386 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:59] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:08:59,494 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:59] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:08:59,886 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:59] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:08:59,888 - INFO - 127.0.0.1 - - [23/Sep/2024 18:08:59] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:09:00,150 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:00] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:09:35,162 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:35] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:09:36,841 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:36] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:09:37,136 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:37] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:09:37,327 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:37] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:09:37,745 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:37] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:09:37,746 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:37] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:09:38,011 - INFO - 127.0.0.1 - - [23/Sep/2024 18:09:38] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:11:36,681 - ERROR - Error processing file: expected str, bytes or os.PathLike object, not DataFrame
+Traceback (most recent call last):
+  File "C:\Users\Santosh Kharel\Desktop\IBM Data\Python\Engine_pre_processor\server.py", line 178, in upload_file
+    return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
+  File "C:\Python310\lib\ntpath.py", line 216, in basename
+    return split(p)[1]
+  File "C:\Python310\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not DataFrame
+
+2024-09-23 18:11:36,683 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:36] "[35m[1mPOST /api/upload HTTP/1.1[0m" 500 -
+2024-09-23 18:11:42,938 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:42] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:11:43,239 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:43] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:11:43,315 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:43] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:11:43,737 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:43] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:11:43,739 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:43] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:11:44,007 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:44] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:11:55,460 - ERROR - Error processing file: expected str, bytes or os.PathLike object, not DataFrame
+Traceback (most recent call last):
+  File "C:\Users\Santosh Kharel\Desktop\IBM Data\Python\Engine_pre_processor\server.py", line 178, in upload_file
+    return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
+  File "C:\Python310\lib\ntpath.py", line 216, in basename
+    return split(p)[1]
+  File "C:\Python310\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not DataFrame
+
+2024-09-23 18:11:55,463 - INFO - 127.0.0.1 - - [23/Sep/2024 18:11:55] "[35m[1mPOST /api/upload HTTP/1.1[0m" 500 -
+2024-09-23 18:12:42,071 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:42] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:12:42,379 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:42] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:12:42,472 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:42] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:12:42,993 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:42] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:12:42,994 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:42] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:12:43,258 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:43] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:12:50,817 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:50] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:12:52,193 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:52] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:12:52,490 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:52] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:12:52,583 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:52] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:12:52,975 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:52] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:12:52,976 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:52] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:12:53,238 - INFO - 127.0.0.1 - - [23/Sep/2024 18:12:53] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:15:22,219 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 18:15:22,904 - INFO -  * Restarting with stat
+2024-09-23 18:17:35,513 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-23 18:17:35,513 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-23 18:17:35,519 - INFO -  * Restarting with stat
+2024-09-23 18:17:37,780 - WARNING -  * Debugger is active!
+2024-09-23 18:17:37,806 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 18:17:40,698 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:40] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:17:40,843 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:40] "[36mGET /static/js/main.bed8d3eb.js HTTP/1.1[0m" 304 -
+2024-09-23 18:17:40,844 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:40] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:17:41,941 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:41] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:17:41,942 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:41] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:17:42,201 - INFO - 127.0.0.1 - - [23/Sep/2024 18:17:42] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:18:55,907 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:55] "GET / HTTP/1.1" 200 -
+2024-09-23 18:18:55,996 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:55] "GET /static/css/main.e92a781c.css HTTP/1.1" 200 -
+2024-09-23 18:18:56,349 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:56] "GET /static/js/main.1ef78dc5.js HTTP/1.1" 200 -
+2024-09-23 18:18:56,838 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:56] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:18:56,854 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:56] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:18:57,124 - INFO - 127.0.0.1 - - [23/Sep/2024 18:18:57] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:19:51,964 - ERROR - Error processing file: expected str, bytes or os.PathLike object, not DataFrame
+Traceback (most recent call last):
+  File "C:\Users\Santosh Kharel\Desktop\IBM Data\Python\Engine_pre_processor\server.py", line 178, in upload_file
+    return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
+  File "C:\Python310\lib\ntpath.py", line 216, in basename
+    return split(p)[1]
+  File "C:\Python310\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not DataFrame
+
+2024-09-23 18:19:51,968 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:51] "[35m[1mPOST /api/upload HTTP/1.1[0m" 500 -
+2024-09-23 18:19:58,611 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:58] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:19:58,907 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:58] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:19:58,970 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:58] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 18:19:59,469 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:59] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:19:59,471 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:59] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:19:59,731 - INFO - 127.0.0.1 - - [23/Sep/2024 18:19:59] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:20:28,973 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:28] "POST /api/upload HTTP/1.1" 200 -
+2024-09-23 18:20:30,727 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:30] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:20:30,852 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:30] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 18:20:31,001 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:31] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:20:31,481 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:31] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:20:31,484 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:31] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:20:31,743 - INFO - 127.0.0.1 - - [23/Sep/2024 18:20:31] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:22:17,756 - ERROR - Error processing file: expected str, bytes or os.PathLike object, not DataFrame
+Traceback (most recent call last):
+  File "C:\Users\Santosh Kharel\Desktop\IBM Data\Python\Engine_pre_processor\server.py", line 178, in upload_file
+    return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
+  File "C:\Python310\lib\ntpath.py", line 216, in basename
+    return split(p)[1]
+  File "C:\Python310\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not DataFrame
+
+2024-09-23 18:22:17,759 - INFO - 127.0.0.1 - - [23/Sep/2024 18:22:17] "[35m[1mPOST /api/upload HTTP/1.1[0m" 500 -
+2024-09-23 18:23:29,264 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 18:23:30,041 - INFO -  * Restarting with stat
+2024-09-23 18:23:35,491 - WARNING -  * Debugger is active!
+2024-09-23 18:23:35,546 - INFO -  * Debugger PIN: 405-898-903
+2024-09-23 18:23:35,732 - ERROR - Error processing file: expected str, bytes or os.PathLike object, not DataFrame
+Traceback (most recent call last):
+  File "C:\Users\Santosh Kharel\Desktop\IBM Data\Python\Engine_pre_processor\server.py", line 178, in upload_file
+    return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
+  File "C:\Python310\lib\ntpath.py", line 216, in basename
+    return split(p)[1]
+  File "C:\Python310\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not DataFrame
+
+2024-09-23 18:23:35,736 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:35] "[35m[1mPOST /api/upload HTTP/1.1[0m" 500 -
+2024-09-23 18:23:45,193 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:45] "[36mGET / HTTP/1.1[0m" 304 -
+2024-09-23 18:23:45,404 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:45] "[36mGET /static/js/main.1ef78dc5.js HTTP/1.1[0m" 304 -
+2024-09-23 18:23:45,713 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:45] "[36mGET /static/css/main.e92a781c.css HTTP/1.1[0m" 304 -
+2024-09-23 18:23:46,227 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:46] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-09-23 18:23:46,229 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:46] "[36mGET /manifest.json HTTP/1.1[0m" 304 -
+2024-09-23 18:23:46,497 - INFO - 127.0.0.1 - - [23/Sep/2024 18:23:46] "[36mGET /logo192.png HTTP/1.1[0m" 304 -
+2024-09-23 18:24:16,577 - INFO -  * Detected change in 'C:\\Users\\Santosh Kharel\\Desktop\\IBM Data\\Python\\Engine_pre_processor\\server.py', reloading
+2024-09-23 18:24:16,779 - INFO -  * Restarting with stat
+2024-09-23 18:24:20,097 - WARNING -  * Debugger is active!
+2024-09-23 18:24:20,114 - INFO -  * Debugger PIN: 405-898-903
