@@ -5,6 +5,10 @@ import os
 import werkzeug
 import logging
 import traceback
+import logging
+import traceback
+import threading
+import time
 
 # Initialize Flask application and enable CORS for all origins
 app = Flask(__name__, static_folder='build', static_url_path='')
@@ -25,6 +29,10 @@ VALID_STATES = ['NSW', 'VIC', 'QLD', 'SA', 'WA', 'ACT', 'TAS', 'NT']
 # Ensure the uploads directory exists; create it if it does not
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
+
+
+# Set the file expiration duration (3 minutes = 180 seconds)
+FILE_EXPIRATION_TIME = 3  # in seconds
 
 def allowed_file(filename):
     """Check if the uploaded file has an allowed extension."""
@@ -127,7 +135,7 @@ def process_maxsoft(df):
 
     return df
 
-def clean_up_processed_files(limit=3):
+'''def clean_up_processed_files(limit=1):
     """Remove old processed files, keeping only the most recent ones."""
     files = [f for f in os.listdir(UPLOAD_FOLDER) if f.endswith('_processed.csv')]
     files.sort(key=lambda x: os.path.getctime(os.path.join(UPLOAD_FOLDER, x)))
@@ -136,6 +144,24 @@ def clean_up_processed_files(limit=3):
         oldest_file = files.pop(0)
         os.remove(os.path.join(UPLOAD_FOLDER, oldest_file))
         logging.info(f"Removed old processed file: {oldest_file}")
+'''
+
+
+def auto_delete_files():
+    """Background thread to automatically delete files older than the expiration time."""
+    while True:
+        current_time = time.time()
+        for filename in os.listdir(UPLOAD_FOLDER):
+            file_path = os.path.join(UPLOAD_FOLDER, filename)
+            if os.path.isfile(file_path):
+                file_age = current_time - os.path.getctime(file_path)
+                if file_age > FILE_EXPIRATION_TIME:
+                    os.remove(file_path)
+                    logging.info(f"Auto-deleted expired file: {filename}")
+        time.sleep(2)  # Check every 10sec
+# Start the auto-delete thread
+threading.Thread(target=auto_delete_files, daemon=True).start() 
+
 
 @app.route('/', methods=['GET'])
 def serve_react_app():
@@ -164,7 +190,8 @@ def upload_file():
 
             processed_file = preprocess_file(file_path, file.filename)
 
-            clean_up_processed_files()
+
+            #clean_up_processed_files()
 
             return send_file(processed_file, as_attachment=True, mimetype='text/csv', download_name=os.path.basename(processed_file))
         except Exception as e:
